@@ -1,13 +1,13 @@
-# Hi, I'm Venkatesh 👋
+# Hi, I'm Venkatesh 
 
-🎓 Mechanical Engineering Undergraduate at IIT Patna  
-📚 Minor in Entrepreneurship  
+ Mechanical Engineering Undergraduate at IIT Patna  
+ Minor in Entrepreneurship  
 
 I enjoy building real-world solutions using AI, analytics, computer vision, and data-driven systems.
 
 ---
 
-# 🚀 Technical Skills
+#  Technical Skills
 
 ### Languages & Tools
 - Python
@@ -25,9 +25,9 @@ I enjoy building real-world solutions using AI, analytics, computer vision, and 
 
 ---
 
-# 🔬 Featured Projects
+#  Featured Projects
 
-## 🧬 Cancer Cell Detection Pipeline *(Under Patent Protection)*
+##  Cancer Cell Detection Pipeline *(Under Patent Protection)*
 Built a computer vision and machine learning pipeline focused on cancer cell detection and analysis.
 
 ### Highlights
@@ -40,7 +40,7 @@ Built a computer vision and machine learning pipeline focused on cancer cell det
 
 ---
 
-## 💳 SmartBill
+##  SmartBill
 AI-powered billing and analytics platform designed to improve operational efficiency and customer insights.
 
 ### Features
@@ -53,7 +53,7 @@ AI-powered billing and analytics platform designed to improve operational effici
 
 ---
 
-## 📊 Employee Dashboard
+##  Employee Dashboard
 Interactive dashboard for employee and business analytics.
 
 ### Features
@@ -66,7 +66,7 @@ Interactive dashboard for employee and business analytics.
 
 ---
 
-## 🤖 OCR API
+##  OCR API
 OCR-based API for extracting and processing text from images and documents.
 
 ### Features
@@ -78,7 +78,7 @@ OCR-based API for extracting and processing text from images and documents.
 
 ---
 
-# 💼 Experience
+# Experience
 
 ### Founder & Operator
 Worked on real-world business operations involving:
@@ -89,7 +89,7 @@ Worked on real-world business operations involving:
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 - Deep Learning
 - Backend Development
 - Scalable AI Systems
@@ -97,11 +97,11 @@ Worked on real-world business operations involving:
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 - GitHub: https://github.com/Venkatesh1410
 - LinkedIn: https://www.linkedin.com/in/venkatesh-mishra-399317288
 - Email: venkatesh_2301me66@iitp.ac.in
 
 ---
 
-⭐ Passionate about solving real-world problems through technology, analytics, and innovation.
+ Passionate about solving real-world problems through technology, analytics, and innovation.
