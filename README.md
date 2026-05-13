@@ -1,12 +1,25 @@
-# Hi, I'm Venkatesh 
+# Hi, I'm Venkatesh 👋
 
- Mechanical Engineering Undergraduate at IIT Patna  
- Minor in Entrepreneurship  
+### IIT Patna | Machine Learning • Computer Vision • Analytics
 
-I enjoy building real-world solutions using AI, analytics, computer vision, and data-driven systems.
+I’m a Mechanical Engineering undergraduate at IIT Patna with a strong interest in:
+- Machine Learning
+- Computer Vision
+- Data Analytics
+- AI-driven Product Development
 
----
+I enjoy building research-oriented and real-world systems involving:
+- image processing
+- ML pipelines
+- automation workflows
+- customer analytics
+- AI-powered applications
 
+Currently working on:
+- AI-Based Tissue Image Analysis (Under Patent Preparation)
+- Computer Vision & Feature Engineering Projects
+- Data Analytics Dashboards
+- AI-integrated automation systems
 #  Technical Skills
 
 ### Languages & Tools
